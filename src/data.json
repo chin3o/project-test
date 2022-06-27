@@ -1,0 +1,44 @@
+{
+    "metadata":{"page":0,"total":6662,"per_page":5},
+    "results":
+    [{
+        "latest.student.size":5090,
+        "latest.admissions.admission_rate.overall":0.8965,
+        "school.name":"Alabama A & M University",
+        "school.school_url":"www.aamu.edu\/",
+        "school.city":"Normal",
+        "school.state":"AL",
+        "id":100654
+    },{
+        "latest.student.size":13549,
+        "latest.admissions.admission_rate.overall":0.806,
+        "school.name":"University of Alabama at Birmingham",
+        "school.school_url":"https:\/\/www.uab.edu\/",
+        "school.city":"Birmingham",
+        "school.state":"AL",
+        "id":100663
+    },{
+        "latest.student.size":298,
+        "latest.admissions.admission_rate.overall":null,
+        "school.name":"Amridge University",
+        "school.school_url":"www.amridgeuniversity.edu\/",
+        "school.city":"Montgomery",
+        "school.state":"AL",
+        "id":100690
+    },{
+        "latest.student.size":7825,
+        "latest.admissions.admission_rate.overall":0.7711,
+        "school.name":"University of Alabama in Huntsville",
+        "school.school_url":"www.uah.edu\/",
+        "school.city":"Huntsville",
+        "school.state":"AL",
+        "id":100706
+    },{
+        "latest.student.size":3603,
+        "latest.admissions.admission_rate.overall":0.9888,
+        "school.name":"Alabama State University",
+        "school.school_url":"www.alasu.edu\/",
+        "school.city":"Montgomery",
+        "school.state":"AL",
+        "id":100724
+    }]}
